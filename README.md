@@ -25,9 +25,6 @@ El proyecto incluye un pipeline que se dispara automáticamente en cada `push` a
 
 
 
-[Image of CI/CD pipeline workflow diagram]
-
-
 ## 📋 Requisitos Previos
 Para replicar este proyecto localmente, necesitas:
 - Terraform instalado.
